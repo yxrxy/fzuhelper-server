@@ -19,6 +19,7 @@ package commonservice
 
 import (
 	server "github.com/cloudwego/kitex/server"
+
 	common "github.com/west2-online/fzuhelper-server/kitex_gen/common"
 )
 
